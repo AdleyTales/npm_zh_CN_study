@@ -1,0 +1,12 @@
+{
+    "title": "npm包集",
+    "author": "AdleyTales",
+    "description": "npm常用的优秀的包 study！",
+    "language": "zh-hans",
+    "styles": {
+        "website": "./styles/website.css"
+    },
+    "structure": {
+        "readme": "README.md"
+    }
+}
